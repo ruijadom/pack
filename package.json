@@ -37,7 +37,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "pack",
+  "name": "pack-ruijadom",
   "author": "ruijadom",
   "module": "dist/pack.esm.js",
   "size-limit": [
